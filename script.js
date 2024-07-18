@@ -1,5 +1,5 @@
 
-var endDate = new Date("Jun 30, 2021 0:00:00").getTime();
+var endDate = new Date("Jun 30, 2025 0:00:00").getTime();
 
 var timer = setInterval(function() {
 
@@ -23,7 +23,7 @@ var timer = setInterval(function() {
 		document.getElementById("bottom").innerHTML = "<br>Until Faith's Birthday";
 		
     } else {
-        document.getElementById("timer").innerHTML = "Happy Birthday, Faith!";
+        document.getElementById("timer").innerHTML = "hell yeah, lets get to fuckin";
 		document.getElementById("botton").innerHTML = "";
     }
     
